@@ -3,7 +3,7 @@ CHALLENGE - 01
 
 Voici Mon Arborescence : 
 
-Static/
+static/
 style.css
 img/
 template/
